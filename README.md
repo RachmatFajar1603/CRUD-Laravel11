@@ -65,3 +65,14 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # CRUD-Laravel11
+
+How to run :
+
+1. Clone repositorynya
+2. php artisan copy:env
+3. Sesuaikan DB_CONNECTION-nya
+4. Run npm run dev dan php artisan serve
+
+
+#Contact
+Jika ada yang ingin ditanyakan [Chat via WhatsApp](https://wa.me/+6281294054091)
